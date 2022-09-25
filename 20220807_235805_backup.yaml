@@ -1,0 +1,11 @@
+# start of Meshtastic configure yaml
+owner: Unknown a288
+
+owner_short: ?88
+
+channel_url: https://www.meshtastic.org/d/#CgUYAyIBAQ
+
+user_prefs:
+  phone_timeout_secs: 900
+  ls_secs: 300
+
